@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompetitionAPI", "CompetitionAPI\CompetitionAPI.csproj", "{BE01A72D-E49E-45E8-A5E3-C6EA6A81343A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE01A72D-E49E-45E8-A5E3-C6EA6A81343A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE01A72D-E49E-45E8-A5E3-C6EA6A81343A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE01A72D-E49E-45E8-A5E3-C6EA6A81343A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE01A72D-E49E-45E8-A5E3-C6EA6A81343A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {971C9051-4DD7-486C-98FD-49F2A80FE3D8}
+	EndGlobalSection
+EndGlobal
